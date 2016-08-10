@@ -1,0 +1,59 @@
+body {
+  text-align: center;
+  background: grey;
+}
+
+.link {
+  text-color: black;
+  color: black;
+  text-decoration: none;
+}
+
+.link:visited {
+  color: black;
+}
+
+.hours {
+  list-style: none;
+}
+
+.menu {
+  float: left;
+  width: 15%;
+  text-align: left;
+  border: 1px dashed black;
+  height: 200px;
+}
+
+.image {
+  width: auto;
+  height: 200px;
+}
+
+.main {
+  position: relative;
+  width: 90%;
+  min-width: 315px;
+}
+
+.about {
+  float: left;
+  width: 50%;
+  border-right: 5px solid black;
+}
+
+.hoo {
+  height: auto;
+  display: inline-block;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.food-menu {
+  display: block;
+  width: 50%;
+  margin: auto;
+  padding: 10px;
+  }
